@@ -1,6 +1,6 @@
 ### Hi! :nerd_face:
 
-I'm a Fullstack Web Developer. I have 8 years of experience with software development and technologies for web development.
+I'm a Application Architect! 
 
 [![Linkedin: jessica](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessica-paola-moraes/)](https://www.linkedin.com/in/jessica-paola-moraes/)
 
